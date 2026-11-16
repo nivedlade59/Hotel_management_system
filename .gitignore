@@ -1,0 +1,25 @@
+# Java / Maven
+target/
+*.class
+
+# React / Node.js
+node_modules/
+dist/
+
+# NetBeans
+HotelDesktop/build/
+HotelDesktop/nbproject/private/
+
+# IDE
+.idea/
+.vscode/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Logs and OS files
+*.log
+Thumbs.db
+.DS_Store
